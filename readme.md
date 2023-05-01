@@ -30,7 +30,7 @@ python main.py
 
 #### File Structure   
  - **main.py**: Main program.
- - **player.py**: Paddle class
+ - **player.py**: Player class
 	- *Method*: player_up, refresh_player
  - **car_manager.py**: CarManager class
 	- *Instance*: list_of_car, speed_car
